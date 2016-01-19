@@ -19,7 +19,7 @@ echo "# Thanks: @clowwindy <https://twitter.com/clowwindy>        #"
 echo "# Mender: Mike<i@guochengjie.site>                          #"
 echo "#             <https://www.guochengjie.site/>               #"
 echo "# What's different?                                         #"
-echo "#  You are able to choose the local port now.               #"
+echo "#  You are able to choose the local port now                #"
 echo "#############################################################"
 echo ""
 
